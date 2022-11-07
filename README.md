@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Code Wars challenges](https://github.com/will-codes-things/code-wars)
 
-- 💬 Ask me about **JavaScript! React, sports/esports, tech, music, and video games.**
+- 💬 Ask me about **JavaScript, React, sports/esports, tech, music, and video games.**
 
 - 📫 How to reach me **w2gillette@gmail.com**
 
