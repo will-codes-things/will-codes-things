@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Will, thanks for viewing my GitHub!</h1>
 <h3 align="center">A Houston based software engineer focused on full-stack JavaScript applications.</h3>
 
-<p align="left"> <a href="https://twitter.com/will_the_coder" target="blank"><img src="https://img.shields.io/twitter/follow/will_the_coder?logo=twitter&style=for-the-badge" alt="will_the_coder" /></a> </p>
-
 - 🔭 I’m currently working on [Code Wars challenges](https://github.com/will-codes-things/code-wars)
 
 - 💬 Ask me about **JavaScript, React, sports/esports, tech, music, and video games.**
