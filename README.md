@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **w2gillette@gmail.com**
 
-- ⚡ Fun fact: **I have 2 World Championships and a North American championship!**
+- ⚡ Fun fact: **I have 2 World Championships and a North American Championship!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
