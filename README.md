@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Code Wars challenges](https://github.com/will-codes-things/code-wars)
 
-- 💬 Ask me about **JavaScript, React, sports/esports, tech, music, and video games.**
+- 💬 Ask me about: **JavaScript, React, sports/esports, tech, music, and video games.**
 
-- 📫 How to reach me **w2gillette@gmail.com**
+- 📫 How to reach me: **w2gillette@gmail.com**
 
-- ⚡ Fun fact **I have 2 World Championships and a North American championship!**
+- ⚡ Fun fact: **I have 2 World Championships and a North American championship!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
